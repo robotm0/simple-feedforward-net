@@ -1,6 +1,5 @@
 // Artificial Neural Network
 // Version 1
-// Robot_M0
 
 #include <stdio.h>
 #include <stdlib.h>
